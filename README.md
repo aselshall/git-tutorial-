@@ -1,5 +1,4 @@
-# git-tutorial-
-Demo for tutorial 
+# Demo for tutorial 
 
 Talk about github
 Okay
