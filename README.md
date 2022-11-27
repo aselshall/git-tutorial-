@@ -1,6 +1,2 @@
 # Demo for tutorial 
-
-Talk about github
-Okay
-Test editing 
-Thank you
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aselshall/git-tutorial-/HEAD)
